@@ -10,5 +10,4 @@ st.success("미술작품을 검색해보세요")
 # st.error("빨간색 창")
 # st.info("파란색 창")
 # st.warning("노란색 창") # ctrl+/ : 주석처리
-st.image("https://media.giphy.com/media/nR4L10XlJcSeQ/giphy.gif?cid=790b76112wig0ccffy14fb764lc4qt9eohzzipq7tmzx2a41&ep=v1_gifs_search&rid=giphy.gif&ct=g", caption="Welcome to ")
-st.video("https://youtu.be/hAAixJ8lux8?si=aZgKRkppa3yEzGtC") 
+st.image("https://media.giphy.com/media/CqVNwrLt9KEDK/giphy.gif?cid=790b7611znii2kpynh92a34ndniev7qvneyb8x8q2f9pwaj9&ep=v1_gifs_search&rid=giphy.gif&ct=g", caption="Welcome to ")
